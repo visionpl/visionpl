@@ -9,7 +9,6 @@
   <samp>
     <a href="https://wisniewicz.pl">site</a> ·
     <a href="https://www.linkedin.com/in/patrykwisniewicz/">linkedin</a> ·
-    <a href="mailto:patryk@wisniewicz.pl">email</a> ·
-    <a href="https://www.codewars.com/users/visionpl">codewars</a>
+    <a href="mailto:patryk@wisniewicz.pl">email</a>
   </samp>
 </p>
