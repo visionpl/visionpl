@@ -460,8 +460,8 @@
   <rect x="1132.5" y="244.5" width="47" height="4" rx="2" fill="rgba(11,.3)"/>
   </g>
   <rect x="14" y="14" width="1172" height="332" fill="none" stroke="#DFDFD7"/>
-  <text x="64" y="76" font-family="Helvetica, Arial, sans-serif" font-size="23" font-weight="400" letter-spacing="7" fill="#6B6B63">PATRYK WISNIEWICZ</text>
-  <text x="60" y="150" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#0B0B0B">I build automations,</text>
-  <rect x="58" y="176" width="936" height="94" fill="#D9FF43"/>
-  <text x="74" y="240" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#0B0B0B">exploring AI &amp; keeping IT running.</text>
+  <text x="64" y="96" font-family="Helvetica, Arial, sans-serif" font-size="23" font-weight="400" letter-spacing="7" fill="#6B6B63">PATRYK WISNIEWICZ</text>
+  <text x="60" y="170" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#0B0B0B">I build automations,</text>
+  <rect x="58" y="196" width="936" height="94" fill="#D9FF43"/>
+  <text x="74" y="260" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="700" letter-spacing="-1.5" fill="#0B0B0B">exploring AI &amp; keeping IT running.</text>
   </svg>
